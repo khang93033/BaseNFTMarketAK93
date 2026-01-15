@@ -1,4 +1,4 @@
-// base-nft-marketplace/scripts/performance.js
+// base-nft-marketplace/scripts/performance.js//
 const { ethers } = require("hardhat");
 const fs = require("fs");
 
